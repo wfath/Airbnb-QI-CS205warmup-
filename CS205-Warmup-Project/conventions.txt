@@ -1,0 +1,2 @@
+Naming: camelCase
+Indentation: 4 Spaces
